@@ -8,8 +8,6 @@ A Laravel-based web application with Docker containerization support.
 - JWT Authentication
 - Docker containerization
 - MySQL database
-- Nginx web server
-- PHPMyAdmin for database management
 
 ## 🔧 Prerequisites
 
